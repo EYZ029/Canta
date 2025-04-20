@@ -1,0 +1,44 @@
+body
+{
+    background-color: rgb(66, 66, 217);
+}
+
+.ust_sutun
+{
+    border: 2px double black;
+    width: 100%;
+}
+
+.ust_ici
+{
+    border: 2px double black;
+    padding: 2%;
+    text-align: center;
+}
+
+.div_icin_block1
+{
+    width: 30%;
+    padding: 12%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-right: 4%;
+    margin-left: 1%;
+    max-width: 5%;
+    float:left;
+    display:block;
+    border: 2px solid red;
+}
+
+.div_icin_block2
+{
+    width: 30%;
+    padding: 12%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-left: 1%;
+    max-width: 5%;
+    float:left;
+    display:block;
+    border: 2px solid red;
+}
