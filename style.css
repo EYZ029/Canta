@@ -23,7 +23,7 @@ nav
     top: 0;
     margin: 0;
     padding: 0;
-    z-index: 2;
+    z-index: 5;
 }
 
 ul
@@ -31,6 +31,7 @@ ul
     display: flex;
     list-style: none;
     position: sticky;
+    text-align: center;
     top: 0;
     padding: 0;
     margin: 0;
@@ -41,25 +42,31 @@ ul li
     margin-right: 20px;
     margin-top: 15px;
 }
+
+a
+{
+    display: block;
+    width: 150px;
+}
   
 ul li a
 {
-    color: white;
     text-decoration: none;
-    transition: background-color 0.5s;
-    border-radius: 40px;
-    padding: 14px 16px;
-    font-size: 125%;
+    border: 2px whitesmoke solid;
+    box-shadow: 0px 0px 10px whitesmoke;
+    background-color: #34495e;
+    color: white;
+    border-radius: 5px;
+    padding: 14px 0px;
+    transition: 0.5s;
 }
-  
+
 ul li a:hover
 {
-    color: white;
-    background-color: #f39c12;
-    transition: background-color 0.5s;
-    border-radius: 40px;
-    padding: 14px 16px;
-    font-size: 125%;
+    border: 2px #f39c12 solid;
+    box-shadow: 0px 0px 20px #f39c12;
+    color: #f39c12;
+    transition: 0.5s;
 }
   
 .checkbtn
@@ -171,9 +178,18 @@ label.logo
     width: 100%;
     height: 100px;
     background-color: whitesmoke;
+    color: #0d0c0cff;
     transform: translateY(-60px);
     opacity: 0.8;
     border-radius: 5px;
+    transition: 0.3s;
+}
+
+.kart .yazi:hover
+{
+    color: #f39c12;
+    text-shadow: 2px 2px 10px #f39c12;
+    transition: 0.3s;
 }
 
 h2
@@ -188,21 +204,54 @@ h2
     right: 25px;
     bottom: 25px;
     background: #34495e;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     cursor: pointer;
     box-shadow: 0px 0px 10px black;
-    border: 0;
-    padding-left: 13px;
+    transition: 0.3s;
+    text-align: center;
     font-size: 29px;
     color: white;
+    z-index: 3;
 }
 
 .sayfayı_yukarı_cikart:hover
 {
     box-shadow: 0px 0px 20px black;
+    transition: 0.3s;
     color: #f39c12;
+}
+
+.WhatsApp
+{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:100px;
+	right:25px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+    font-size:30px;
+	box-shadow: 0px 0px 10px black;
+    transition: 0.3s;
+    z-index: 3;
+}
+
+.WhatsApp:hover
+{
+	background-color:#FFF;
+	color:#25d366;
+	border-radius:50px;
+	box-shadow: 0px 0px 20px black;
+    transition: 0.3s;
+}
+
+.margin_WhatsApp
+{
+	margin-top:16px;
 }
 
 .hareketli_resimler
@@ -211,4 +260,51 @@ h2
     height: 100vh;
     margin-top: 190px;
     max-width: 100%;
+}
+
+.alt_menu
+{
+    position: sticky;
+    margin-top: 30px;
+    width: 100%;
+    float: left;
+    background-color: #0d0c0cff;
+}
+
+.alt_menu_ici
+{
+    width: 475px;
+    color: whitesmoke;
+    float: left;
+}
+
+.alt_menu_yazisi
+{
+    color: whitesmoke;
+    text-align: left;
+    padding-left: 178px;
+    font-size: 30px;
+}
+
+.alt_menu_ici_yazisi
+{
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 56px;
+    color: whitesmoke;
+    transition: 0.3s;
+}
+
+.alt_menu_ici_yazisi:hover
+{
+    text-shadow: 2px 2px 10px whitesmoke;
+    color: whitesmoke;
+    transition: 0.3s;
+}
+
+.sosyal_medya_butonlari
+{
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
 }
