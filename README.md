@@ -22,7 +22,7 @@ Tüm Çantalar
 
 Tüm Markalar
 -
-<img src="https://github.com/user-attachments/assets/0963cecf-0994-4f0f-8396-bf488372f1db"/>
+<img src="https://github.com/user-attachments/assets/9cb32fa7-f29c-48ac-869c-f3f8968a350c"/>
 
 İletişim
 -
