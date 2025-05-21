@@ -14,20 +14,20 @@ Ana Sayfa,Tüm Çantalar,Tüm Markalar,İletişim
 # SAYFALARDAN BİRER EKRAN GÖRÜNTÜSÜ
  Ana Sayfa 
  -
-![Image]
+![Ekran görüntüsü 2025-05-22 002051]
 (https://github.com/user-attachments/assets/c38008dd-4eac-4d74-896b-4bd4a321dfb5)
 
 Tüm Çantalar
 -
-![Image]
+![Ekran görüntüsü 2025-05-22 002111]
 (https://github.com/user-attachments/assets/0963cecf-0994-4f0f-8396-bf488372f1db)
 
 Tüm Markalar
 -
-![Image]
+![Ekran görüntüsü 2025-05-22 002111]
 (https://github.com/user-attachments/assets/0963cecf-0994-4f0f-8396-bf488372f1db)
 
 İletişim
 -
-![Image]
+![Ekran görüntüsü 2025-05-22 002136]
 (https://github.com/user-attachments/assets/9cb32fa7-f29c-48ac-869c-f3f8968a350c)
