@@ -14,8 +14,8 @@ Ana Sayfa,Tüm Çantalar,Tüm Markalar,İletişim
 # SAYFALARDAN BİRER EKRAN GÖRÜNTÜSÜ
  Ana Sayfa 
  -
-![Ekran görüntüsü 2025-05-22 002051]
-(https://github.com/user-attachments/assets/c38008dd-4eac-4d74-896b-4bd4a321dfb5)
+![Image]
+(https://github.com/user-attachments/assets/0551fc9e-fcfb-4355-af96-8c600f137445)
 
 Tüm Çantalar
 -
